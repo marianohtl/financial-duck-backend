@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>financial_duck_backend.Application</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\financial-duck-backend.Domain\financial-duck-backend.Domain.csproj" />
+    <ProjectReference Include="..\financial-duck-backend.Infra\financial-duck-backend.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

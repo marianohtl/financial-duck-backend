@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YDWOJTN14FGYF2/5xPNyeBkXjzIyNm8ibp+IkX0oUCM=",
+  "Source": "financial-duck-backend.Api",
+  "BasePath": "_content/financial-duck-backend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

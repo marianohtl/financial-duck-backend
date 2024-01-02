@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "financial-duck-backend.Application/1.0.0": {
+        "dependencies": {
+          "financial-duck-backend.Domain": "1.0.0",
+          "financial-duck-backend.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "financial-duck-backend.Application.dll": {}
+        }
+      },
+      "financial-duck-backend.Domain/1.0.0": {
+        "runtime": {
+          "financial-duck-backend.Domain.dll": {}
+        }
+      },
+      "financial-duck-backend.Infra.Data/1.0.0": {
+        "runtime": {
+          "financial-duck-backend.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "financial-duck-backend.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "financial-duck-backend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "financial-duck-backend.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

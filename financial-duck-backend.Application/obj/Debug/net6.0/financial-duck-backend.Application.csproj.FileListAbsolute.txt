@@ -1,0 +1,17 @@
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\bin\Debug\net6.0\financial-duck-backend.Application.deps.json
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\bin\Debug\net6.0\financial-duck-backend.Application.dll
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\bin\Debug\net6.0\financial-duck-backend.Application.pdb
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\bin\Debug\net6.0\financial-duck-backend.Domain.dll
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\bin\Debug\net6.0\financial-duck-backend.Infra.Data.dll
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\bin\Debug\net6.0\financial-duck-backend.Domain.pdb
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\bin\Debug\net6.0\financial-duck-backend.Infra.Data.pdb
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\obj\Debug\net6.0\financial-duck-backend.Application.csproj.AssemblyReference.cache
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\obj\Debug\net6.0\financial-duck-backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\obj\Debug\net6.0\financial-duck-backend.Application.AssemblyInfoInputs.cache
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\obj\Debug\net6.0\financial-duck-backend.Application.AssemblyInfo.cs
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\obj\Debug\net6.0\financial-duck-backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\obj\Debug\net6.0\financial-duck-backend.Application.csproj.CopyComplete
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\obj\Debug\net6.0\financial-duck-backend.Application.dll
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\obj\Debug\net6.0\refint\financial-duck-backend.Application.dll
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\obj\Debug\net6.0\financial-duck-backend.Application.pdb
+C:\Users\Delete\Desktop\projetinhos\financial-duck-backend\financial-duck-backend.Application\obj\Debug\net6.0\ref\financial-duck-backend.Application.dll

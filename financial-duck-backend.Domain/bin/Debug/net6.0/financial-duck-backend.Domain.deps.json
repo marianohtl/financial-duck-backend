@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "financial-duck-backend.Domain/1.0.0": {
+        "runtime": {
+          "financial-duck-backend.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "financial-duck-backend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
