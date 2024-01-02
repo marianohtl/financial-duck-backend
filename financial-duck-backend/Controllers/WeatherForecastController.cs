@@ -1,31 +1,24 @@
+using financial_duck_backend.Infra.Context;
 using Microsoft.AspNetCore.Mvc;
+using MongoDB.Driver;
 
 namespace financial_duck_backend.Controllers;
 [ApiController]
 [Route("[controller]")]
 public class WeatherForecastController : ControllerBase
 {
-    private static readonly string[] Summaries = new[]
-    {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-    };
 
     private readonly ILogger<WeatherForecastController> _logger;
-
-    public WeatherForecastController(ILogger<WeatherForecastController> logger)
+    public DBContext a;
+    public WeatherForecastController(ILogger<WeatherForecastController> logger, DBContext context)
     {
+        a = context;
         _logger = logger;
     }
 
     [HttpGet(Name = "GetWeatherForecast")]
-    public IEnumerable<WeatherForecast> Get()
+    public ICollection<object> Get()
     {
-        return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-        {
-            Date = DateTime.Now.AddDays(index),
-            TemperatureC = Random.Shared.Next(-20, 55),
-            Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-        })
-        .ToArray();
+        return a._randomCollection.Find(Builders<object>.Filter.Eq("category", "Nome da Categoria")).ToList();
     }
 }
